@@ -1,0 +1,1 @@
+SELECT * FROM sailor ORDER BY rating ASC, age DESC;

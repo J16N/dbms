@@ -1,0 +1,5 @@
+SELECT * FROM cust1;
+
+ALTER TABLE cust1 DROP COLUMN income;
+
+SELECT * FROM cust1;

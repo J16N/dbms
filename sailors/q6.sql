@@ -1,0 +1,1 @@
+SELECT DISTINCT sname, rating FROM sailor WHERE rating BETWEEN 5 AND 10;

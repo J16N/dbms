@@ -1,0 +1,1 @@
+SELECT day, ADD_MONTHS(day, 2) AS two_months_added FROM reserve;

@@ -1,0 +1,1 @@
+SELECT TO_CHAR(day, 'ww') AS week_of_year FROM reserve;

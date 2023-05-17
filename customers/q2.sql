@@ -1,0 +1,1 @@
+ALTER TABLE customers ADD stay_from_year Varchar2(4);

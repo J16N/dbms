@@ -1,0 +1,1 @@
+SELECT MONTHS_BETWEEN(SYSDATE, day) AS month_between FROM reserve;

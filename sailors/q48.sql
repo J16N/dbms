@@ -1,0 +1,1 @@
+SELECT UPPER(sname) AS uppercase_name FROM sailor;

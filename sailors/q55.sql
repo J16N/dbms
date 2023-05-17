@@ -1,0 +1,1 @@
+SELECT age, FLOOR(age) AS floor_age FROM sailor;

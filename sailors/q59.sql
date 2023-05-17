@@ -1,0 +1,1 @@
+SELECT (SYSDATE - day) AS DAYS FROM reserve;

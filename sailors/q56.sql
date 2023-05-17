@@ -1,0 +1,1 @@
+SELECT age, CEIL(age) AS ceil_age FROM sailor;

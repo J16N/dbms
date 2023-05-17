@@ -1,0 +1,1 @@
+SELECT sname, SUBSTR(sname, 3, LENGTH(sname) - 2 + 1) AS substr_sname FROM sailor;

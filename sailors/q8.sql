@@ -1,0 +1,1 @@
+SELECT * FROM sailor WHERE rating > 7;

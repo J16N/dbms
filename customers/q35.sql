@@ -1,0 +1,1 @@
+SELECT * FROM customers WHERE dob = (SELECT MAX(dob) FROM customers);

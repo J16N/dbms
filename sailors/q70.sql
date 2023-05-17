@@ -1,0 +1,1 @@
+SELECT TO_CHAR(day, 'day') AS week_day FROM reserve;

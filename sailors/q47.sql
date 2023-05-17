@@ -1,0 +1,1 @@
+SELECT sname, LENGTH(sname) AS length FROM sailor;

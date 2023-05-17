@@ -1,0 +1,1 @@
+SELECT day, NEXT_DAY(day, 'Monday') AS next_monday FROM reserve;

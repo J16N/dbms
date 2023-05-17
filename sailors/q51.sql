@@ -1,0 +1,1 @@
+SELECT SUBSTR(sname, 4, 7 - 4 + 1) FROM sailor;

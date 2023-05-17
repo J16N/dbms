@@ -1,0 +1,1 @@
+SELECT (sid || ' ' || sname) AS concat_result FROM sailor;

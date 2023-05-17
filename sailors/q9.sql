@@ -1,0 +1,1 @@
+SELECT * FROM sailor WHERE sname = 'Horatio' AND age = 35.4;

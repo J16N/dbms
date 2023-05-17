@@ -1,0 +1,1 @@
+SELECT * FROM customers WHERE dob < '01-JAN-2000';

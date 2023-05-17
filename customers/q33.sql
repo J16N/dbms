@@ -1,0 +1,1 @@
+SELECT TO_CHAR(dob, 'YYYY') AS birth_year FROM customers;

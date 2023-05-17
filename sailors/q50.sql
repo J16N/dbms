@@ -1,0 +1,1 @@
+SELECT INITCAP(sname) AS titlecase_name FROM sailor;

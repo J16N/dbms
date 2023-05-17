@@ -1,0 +1,1 @@
+SELECT sname FROM sailor WHERE sname NOT IN ('Horatio', 'Lubber');

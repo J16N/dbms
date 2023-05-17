@@ -1,0 +1,1 @@
+SELECT credit_limit FROM customers WHERE territory = 'AMERICA';

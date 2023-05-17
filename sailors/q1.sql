@@ -1,0 +1,1 @@
+SELECT sname, mname, surname, age FROM sailor;

@@ -1,0 +1,2 @@
+SELECT * FROM customers
+    WHERE income IN (20000, 24000, 30000, 45000);

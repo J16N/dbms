@@ -1,0 +1,1 @@
+SELECT COUNT(DISTINCT sname) AS total_sailors FROM sailor;

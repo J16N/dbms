@@ -1,0 +1,1 @@
+SELECT DISTINCT sname, mname, surname FROM sailor;

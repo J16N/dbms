@@ -1,0 +1,1 @@
+SELECT sname FROM sailor WHERE rating IS NULL;

@@ -1,0 +1,1 @@
+SELECT day, ADD_MONTHS(day, -3) AS three_months_removed FROM reserve;

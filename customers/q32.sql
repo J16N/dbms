@@ -1,0 +1,1 @@
+SELECT DISTINCT (first_name || ' ' || last_name) AS name FROM customers;

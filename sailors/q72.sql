@@ -1,0 +1,1 @@
+SELECT TO_CHAR(day, 'ddd') AS no_of_days_passed FROM reserve;
